@@ -15,5 +15,6 @@ public class mult {
 
         total = n1 * n2;
         JOptionPane.showMessageDialog(null, "resposta é: " + total);
+        System.exit(0);
     }
 }
